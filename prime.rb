@@ -7,4 +7,5 @@ def prime?(num)
     divisors.all? do |denominator|
       num % denominator != 0
     end
+  end
 end
