@@ -1,5 +1,5 @@
 def prime?(num)
-  dividers = [1...num]
-  dividers.each do ||
+  divisors = [1...num]
+  divisors.each do ||
   end
 end
