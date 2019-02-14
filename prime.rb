@@ -1,5 +1,6 @@
 def prime?(num)
-  divisors = [1...num]
-  divisors.each do ||
+  divisors = [2...(num-1)]
+  divisors.each do |denominator|
+    if 
   end
 end
